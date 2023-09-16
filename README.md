@@ -1,7 +1,7 @@
 # GoogleDorkEngine
 Introducing "Google Dork Engine" - your ultimate bug bounty tool! Discover vulnerabilities and sensitive information effortlessly. This website revolutionizes the process by allowing you to open multiple Google Dorks with just one click. Unleash the power of efficient bug hunting and secure your target with ease
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://PushkraJ99.github.io/GoogleDorkEngine)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=&logoColor=white)](https://PushkraJ99.github.io/GoogleDorkEngine)
 
 # Description for Dorks
 
